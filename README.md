@@ -1,0 +1,1 @@
+# tama_table_solver
