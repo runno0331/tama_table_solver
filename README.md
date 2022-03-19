@@ -31,3 +31,6 @@ python3 main.py
 バイアス項を含めて計算したい場合はチェックボックスにチェックを入れて，計算を押す．
 
 <img width="600" src="img/result.png"><img width="600" src="img/result2.png">
+
+## デモ動画
+https://user-images.githubusercontent.com/50891738/159123936-89706b69-5572-4cca-8e1e-a8998873b13f.mov
