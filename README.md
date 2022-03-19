@@ -29,4 +29,5 @@ python3 main.py
 ### 計算
 値が入力できたら計算を押すと，計算結果が表示される．
 バイアス項を含めて計算したい場合はチェックボックスにチェックを入れて，計算を押す．
+
 <img width="600" src="img/result.png"><img width="600" src="img/result2.png">
